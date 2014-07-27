@@ -18,3 +18,4 @@
 /.idea
 
 Gemfile.lock
+config/OMG_database.yml
